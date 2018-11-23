@@ -6,11 +6,11 @@
 /* Background */
 
 .theme-dark .channel-members {
-    background-color: rgba(0, 0, 0, 1);/* This changes the color of the background for the userlist */
+    background-color: rgba(0, 0, 0, 0);/* This changes the color of the background for the userlist */
 }
 .theme-dark .channel-members h2 {
     color: rgba(0, 0, 0, 1);/* This changes the color of the role titles on the userlist */
-    background-color: rgba(0, 0, 0, 1);/* This changes the color of the background for role titles on the userlist */
+    background-color: rgba(0, 0, 0, 0);/* This changes the color of the background for role titles on the userlist */
     border-radius: 0px;/* Increase this to round the edges of the background */
 }
 .channel-members .member .member-activity {
