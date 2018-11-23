@@ -1,7 +1,7 @@
 //META{"name":"CreateYourOwnThemeUserList","description":"Create_Your_Own_Theme-Userlist","author":"xNightWulf","version":"1.0"}*//{}
 
 .container-2OU7Cz, .theme-dark .title-qAcLxz, .theme-dark .chat form, .channels-3g2vYe   {
-    background-color: transparent !important;
+    background-color: transparent ;
 }
 /* Background */
 
@@ -17,7 +17,7 @@
     color: rgba(200, 200, 200, 1);/* This changes the color of the activity text on the userlist */
 }
 span.member-username-inner {
-    color: white !important;/* This changes the color of the usernames on the userlist */
+    color: white ;/* This changes the color of the usernames on the userlist */
 }
 
 
@@ -68,5 +68,5 @@ span.member-username-inner {
 .theme-dark .layers-20RVFW, 
 .theme-dark .typing-3eiiL_,
 .container-2OU7Cz {
-  background: transparent !important;
+  background: transparent ;
 }
